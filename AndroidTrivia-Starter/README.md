@@ -1,4 +1,4 @@
-AndroidTrivia - starter code
+AndroidTrivia - starter code - navigation及安全Args插件的应用
 ============================
 
 Starter code for Android Kotlin Fundamentals codelab 3.1: Create and add a
